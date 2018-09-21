@@ -1,5 +1,5 @@
 _repo: The-Swan-of-Vilamorta_54105
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: El cisne de Vilamorta. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '918'
     url: http://www.gutenberg.org/2009/agents/918
+covers:
+- cover_type: archival
+  image_path: 54105-h/images/cover.jpg
 creator:
   author:
     agent_name: Pardo Bazán, Emilia, condesa de
@@ -23,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
     - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54105#The-Swan-of-Vilamorta
 gutenberg_issued: '2017-02-03'
 gutenberg_type: Text
 identifiers:
